@@ -1,0 +1,14 @@
+{
+  "name": "@antoniomilanese/zoomable-sunburst",
+  "main": "0f956621434a8a68@346.js",
+  "version": "346.0.0",
+  "homepage": "https://observablehq.com/@antoniomilanese/zoomable-sunburst",
+  "author": {
+    "name": "antoniomilanese",
+    "url": "https://observablehq.com/@antoniomilanese"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
