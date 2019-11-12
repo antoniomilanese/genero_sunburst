@@ -1,16 +1,16 @@
 {
- "name": "flare",
+ "name": "indice",
  "children": [
   {
-   "name": "analytics",
+   "name": "Autonomía Económica",
    "children": [
     {
      "name": "cluster",
      "children": [
-      {"name": "AgglomerativeCluster", "value": 3938},
-      {"name": "CommunityStructure", "value": 3812},
-      {"name": "HierarchicalCluster", "value": 6714},
-      {"name": "MergeEdge", "value": 743}
+      {"name": "Ocupación", "value": 3938},
+      {"name": "Mercado de trabajo - Mujeres", "value": 3812},
+      {"name": "Mercado de trabajo - LGTBQI", "value": 6714},
+      {"name": "Brecha laboral - municipal", "value": 743}
      ]
     },
     {
